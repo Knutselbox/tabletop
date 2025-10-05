@@ -1,0 +1,2 @@
+FLASK_APP=tabletop.py
+FLASK_DEBUG=0
